@@ -1,16 +1,16 @@
-# BLOOM 
+# Burger King
 
 ## Overview and Origin
 
-* BigScience Large Open-science Open-access Multilingual Language Model (BLOOM)
+* Burger King
 
-* When was the company incorporated?
+* Founded in 1954
 
-* Who are the founders of the company?
+* Founded by Keith Kramer and Matthew Burns
 
-* How did the idea for the company (or project) come about?
+* Their first stores were centered around a piece of equipment known as the Insta-Broiler, which was very effective at cooking burgers
 
-* How is the company funded? How much funding have they received?
+* It was funded originally by Keith and Matthew
 
 ## Business Activities
 
