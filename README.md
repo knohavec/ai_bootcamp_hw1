@@ -1,4 +1,4 @@
-# BLOOM (now keegan branch test)
+# BLOOM 
 
 ## Overview and Origin
 
