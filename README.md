@@ -1,34 +1,37 @@
-# Burger King (TEST 2)
+# Google
 
 ## Overview and Origin
 
-* Burger King
+* Google
+* Founded September 4, 1998, in Menlo Park, California
 
-* Founded in 1954
+* Founded by Larry Page and Sergey Brin 
 
-* Founded by Keith Kramer and Matthew Burns
-
-* Their first stores were centered around a piece of equipment known as the Insta-Broiler, which was very effective at cooking burgers
-
-* It was funded originally by Keith and Matthew
+* Brin and Page, who met as graduate students at Stanford University, were intrigued with the idea of extracting meaning from the mass of data accumulating on the Internet.
+  
+* Andy Bechtolsheim funded their company originally with an investment of $100,000
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* Originally, google tackled the problem of storing, sorting, and searching through mass amounts of data, creating the search engine Google. Now the company has diversified and has a large range of products, services, and websites, and is developing many more.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* The companies intended customer is anyone who needs to find out information from the internet, navigate the internet, use email, etc. Essentally every person on Earth. In just the search engine market, Google holds an estimated 83.49%  
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* At this point, Google has established itself as one of the largest tech and data companies in the world, and isn't going anywhere. They don't necessiarly offer anything their competetors like Bing, hotmail, etc, don't offer, Google is just the "name brand" of many internet products. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Google uses a large range of technologies internally, many of which are proprietary and the public doesn't have much information about. They are currently developing a LLM, and recently released a groundbreaking innovation in LLM's with their new Gemini 1.5 model.
 
 ## Landscape
 
-* What field is the company in?
+* Google is in many different tech fields, mostly centered around data. They provide search engines, emails, ai companions, phone operating systems, navigation apps, and much more.
+  
+* Google's original motto was "don't be evil". They removed this motto in 2018, though the company has been going a different direction for many years. Google controls a very large percentage of personal data around the world, likely more than any other company. Data is valuable in the modern world, and Google isn't exactly transparent about what exactly they DO with everyones personal data. They are clear about what data they collect, such as location data, search history, purchase history, watch time on videos, time spent on websites, and much more, and even allow users to opt out of certain types of data collection, but what happens after is explained away in vague terms. 
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* Google states this about their privacy policy on their website "Google uses the information shared by sites and apps to deliver our services, maintain and improve them, develop new services, measure the effectiveness of advertising, protect against fraud and abuse, and personalize content and ads you see on Google and on our partners' sites and apps".
 
-* What are the other major companies in this field?
+* Google states that they do not share personal data with outside companies without consent of the user, but will share/sell "non-identifying" data, and internally they could be using personal data in any way they see fit.
+
+* Google is inbedded in so 
 
 ## Results
 
