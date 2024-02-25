@@ -1,52 +1,42 @@
-# Google
+# GitHub: Revolutionizing Collaboration in Software Development
 
 ## Overview and Origin
 
-* Google
-* Founded September 4, 1998, in Menlo Park, California
-
-* Founded by Larry Page and Sergey Brin 
-
-* Brin and Page, who met as graduate students at Stanford University, were intrigued with the idea of extracting meaning from the mass of data accumulating on the Internet.
-  
-* Andy Bechtolsheim funded their company originally with an investment of $100,000
+- **Name of company:** [GitHub](https://github.com/)
+- **Incorporation:** Founded in 2008
+- **Founders:** Tom Preston-Werner, Chris Wanstrath, PJ Hyett
+- **Idea:** The founders wanted to create a platform that would make it easier for developers to collaborate on software projects using Git version control.
+- **Funding:** GitHub has received funding from various investors and was later acquired by Microsoft in 2018 for $7.5 billion.
 
 ## Business Activities
 
-* Originally, google tackled the problem of storing, sorting, and searching through mass amounts of data, creating the search engine Google. Now the company has diversified and has a large range of products, services, and websites, and is developing many more.
-
-* The companies intended customer is anyone who needs to find out information from the internet, navigate the internet, use email, etc. Essentally every person on Earth. In just the search engine market, Google holds an estimated 83.49%  
-
-* At this point, Google has established itself as one of the largest tech and data companies in the world, and isn't going anywhere. They don't necessiarly offer anything their competetors like Bing, hotmail, etc, don't offer, Google is just the "name brand" of many internet products. 
-
-* Google uses a large range of technologies internally, many of which are proprietary and the public doesn't have much information about. They are currently developing a LLM, and recently released a groundbreaking innovation in LLM's with their new Gemini 1.5 model.
+- **Problem:** GitHub aims to solve the problem of collaboration and version control in software development.
+- **Intended Customer:** Developers, software engineers, and teams working on software projects. The market size of this customer segment is substantial, given the widespread use of software development in various industries.
+- **Solution:** GitHub offers a user-friendly interface for managing repositories, facilitating collaboration, and enabling version control using Git. Its key advantage is its strong community and ecosystem of developers and projects. Github also recently launched a new product called Github Copilot, an AI assistant for programmers that can be integrated directly into their IDE.
+- "Just as GitHub was founded on Git, today we are re-founded on Copilot. It is now evident that AI is ushering in the same sweeping change, and at an exponential pace." - GitHub CEO Thomas Dohmke
+- **Technologies:** GitHub uses Git for version control and offers various features for project management, code review, and collaboration. Copilot is a large language model, built on similar technology to ChatGPT or other similar products. 
 
 ## Landscape
 
-* Google is in many different tech fields, mostly centered around data. They provide search engines, emails, ai companions, phone operating systems, navigation apps, and much more.
-  
-* Google's original motto was "don't be evil". They removed this motto in 2018, though the company has been going a different direction for many years. Google controls a very large percentage of personal data around the world, likely more than any other company. Data is valuable in the modern world, and Google isn't exactly transparent about what exactly they DO with everyones personal data. They are clear about what data they collect, such as location data, search history, purchase history, watch time on videos, time spent on websites, and much more, and even allow users to opt out of certain types of data collection, but what happens after is explained away in vague terms. 
-
-* Google states this about their privacy policy on their website "Google uses the information shared by sites and apps to deliver our services, maintain and improve them, develop new services, measure the effectiveness of advertising, protect against fraud and abuse, and personalize content and ads you see on Google and on our partners' sites and apps".
-
-* Google states that they do not share personal data with outside companies without consent of the user, but will share/sell "non-identifying" data, and internally they could be using personal data in any way they see fit.
-
-* Google is inbedded in so 
+- **Field:** Software development, collaboration, and version control.
+- **Trends:** Major trends in this field include the increasing use of AI and machine learning, the adoption of DevOps practices, and the rise of cloud-based development tools.
+- **Major Competitors:** Major competitors of GitHub include GitLab, Bitbucket, and SourceForge.
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
+- **Business Impact:** GitHub has had a significant impact on the software development industry, becoming the go-to platform for collaboration and version control.
+- **Core Metrics:** Metrics used in this field include the number of repositories, active users, and contributions. GitHub performs very well based on these metrics. "GitHub has an annual recurring revenue of $1 billion. Around 100 million developers across the globe use GitHub"[kinsta.com]
+- **Performance Relative to Competitors:** GitHub is a leader in the field, with a strong user base and a thriving ecosystem of projects and developers. It is one of if not the most widly used platform for version sharing and control. 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+- **Products or Services:** GitHub could consider offering additional features for project management and collaboration, such as enhanced code review tools or integrated project management solutions.
+- **Benefits:** Offering these additional features would enhance GitHub's value proposition for developers and teams, making it an even more indispensable tool for software development.
+- **Technologies:** These additional features could utilize technologies such as AI for code analysis and project management algorithms for optimizing workflows.
+- **Appropriateness:** These technologies are appropriate as they would enhance the user experience and productivity of developers using the platform.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+## Sources
+    [GitHub](https://github.com/)
+    [Github Copilot](https://github.com/features/copilot/)
+    [ITPro Today](https://www.itprotoday.com/devops/github-universe-doubles-down-ai-developer-interest-grows#close-modal)
+    [kinsta.com]([https://venturebeat.com/programming-development/github-releases-open-source-report-octoverse-2022-says-97-of-apps-use-oss/](https://kinsta.com/blog/github-statistics/#:~:text=GitHub%20Trends-,The%20Most%20Important%20GitHub%20Statistics,source%20contributions%20on%20the%20platform.)https://kinsta.com/blog/github-statistics/#:~:text=GitHub%20Trends-,The%20Most%20Important%20GitHub%20Statistics,source%20contributions%20on%20the%20platform.)
