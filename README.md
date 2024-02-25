@@ -1,6 +1,5 @@
 # GitHub: Revolutionizing Collaboration in Software Development
-![GitHub Logo](ai_bootcamp_hw1
-/Logo.png)
+![GitHub Logo](Logo.png)
 
 ## Overview and Origin
 
